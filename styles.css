@@ -100,9 +100,7 @@ button.delete:hover {
 
 footer {
     text-align: center;
-    padding: 1rem;
     background: rgba(255, 255, 255, 0.374);
-    border-radius: 10px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     position: absolute;
     bottom: 0;
@@ -111,6 +109,7 @@ footer {
 
 footer p {
     margin: 0;
+    padding: 1rem;
     font-size: 1rem;
     color: #333;
 }
